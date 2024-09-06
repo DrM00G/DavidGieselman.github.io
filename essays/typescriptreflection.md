@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Development Practice
 ---
+<img width="100px" class="rounded float-start pe-4" src="../img/TSreflection/typescript.jpg">
 
 As someone with experience in JavaScript and some of its variations like the p5 coding environment, diving into TypeScript was jarring yet familiar. TypeScript shares the same fundamental logic as JavaScript, yet its syntax and type-checking bring a new level of complexity to even simple problems. Initially, I found myself pausing to consider coding choices that, in JavaScript, would have been automatic. This need for careful consideration forced me to approach coding in a more strategic manner, which, while challenging, was also refreshing. TypeScript, to me, isn't inherently better than any other language I've worked with so far, but it’s certainly different enough to warrant deeper exploration.
 
