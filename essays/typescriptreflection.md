@@ -9,10 +9,6 @@ labels:
   - Software Development Practice
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
 As someone with experience in JavaScript and some of its variations like the p5 coding environment, diving into TypeScript was jarring yet familiar. TypeScript shares the same fundamental logic as JavaScript, yet its syntax and type-checking bring a new level of complexity to even simple problems. Initially, I found myself pausing to consider coding choices that, in JavaScript, would have been automatic. This need for careful consideration forced me to approach coding in a more strategic manner, which, while challenging, was also refreshing. TypeScript, to me, isn't inherently better than any other language I've worked with so far, but it’s certainly different enough to warrant deeper exploration.
 
 One of the most interesting aspects of working with TypeScript was how it impacted my performance during the timed practice WODs. Normally, I work through larger tasks with deadlines stretching over hours or days, but these timed WODs were much more immediate. Even though the problems themselves were relatively simple, working in an unfamiliar language slowed me down and revealed weaknesses in my learning speed and coding efficiency. It was a slightly humbling experience but also valuable. I realized how quickly small differences in syntax could derail my flow, and this pushed me to improve my learning process. Despite this, I performed better than expected under pressure, which was motivating. It reminded me of the importance of being adaptable when tackling new languages or tasks, especially under time constraints. 
