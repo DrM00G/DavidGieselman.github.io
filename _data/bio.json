@@ -6,7 +6,7 @@
     "email": "davidgie@hawaii.edu",
     "phone": "626-710-6525",
     "website": "https://DrM00G.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "DrM00G", "url": "http://github.com/changeme" },
@@ -16,27 +16,27 @@
   },
   "interests": [
     { "name": "Software Design" },
-    { "name": "Graphic Algorithms" },
+    { "name": "Machine Learning" },
     { "name": "Astrophotography" },
     { "name": "3D Printing/3D Design" },
-    { "name": "" }
+    { "name": "Graphic Designs" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "SQL" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Design Software",
+      "keywords": [ "Fusion360", "Blender", "Photoshop", "AfterEffects" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -44,69 +44,50 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "3D Wizards Inc",
+      "position": "Retail Associate and 3D printer technician",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-05-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Work in printer farm, develop products, and work our retail sites",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee 3D printers",
+        "Learn all about manufacturing and 3D modeling"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "UHManoa Call Center",
+      "position": "Student Suporvisor",
+      "website": "",
+      "startDate": "2022-09-01",
+      "endDate": "2024-07-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Raised over $50,000 for a variety of funds, scholarships, and endowments for the UH system",
+        "Got to speak with many Deans and Chancelors as well as our wonderful alumni and friends of the institution"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Boy Scouts of America, Troop 4",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "rank": "Life Scout",
+      "startDate": "",
+      "endDate": "",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "1st Place in team section; Integration Bee",
+      "date": "2019",
+      "awarder": "Math Academy",
+      "summary": "A MIT inspired integration bee was held at Cal Tech by the Math Academy accelerated learning group."
     }
   ],
   "references": [
