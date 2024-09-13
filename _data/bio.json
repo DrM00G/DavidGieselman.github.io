@@ -9,9 +9,9 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "DrM00G", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "davidgieselman", "url": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "david.gieselman", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "DrM00G", "url": "http://github.com/DrM00G" },
+      { "network": "linkedin", "username": "davidgieselman", "url": "http://linkedin.com/in/david-gieselman-b252038a/" },
+      { "network": "instagram", "username": "david.gieselman", "url": "http://instagram.com/david_gieselman/" }
     ]
   },
   "interests": [
