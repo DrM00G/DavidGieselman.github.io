@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/Ty.png
 title: "3D scanning"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "I scanned my boss's head"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/Ty.png">
 
 I will change this to a more impressive project soon, but this is all I can find the visuals for atm.
 
