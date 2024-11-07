@@ -15,6 +15,8 @@ labels:
 
 I am part of a 3D Printing Company that is coming up on its one year anniversary. It's been net profitable and we're debt free. The only downside to that is that it comes from growing at a steady and manageable pace and now we can't handle the demand we've built up. My final project will attempt to somewhat help with this.
 
+<img width="200px" class="rounded float-start pe-4" src="../img/finalprojkpitch/ready.png">
+
 The Problem: For the past year we have been a popular staple of physical marketplaces like the Aloha Stadium Swap Meet, the Lineup at Wai Kai, and the Pearlridge Center just to name a few. However we have a disappointingly finite stock and variety of options. In theory we should be able to quickly turn around custom orders, especially custom colors of products we already produce, due to the nature of 3D printers. However we're so focused on having enough normal stock for our locations that we don't have time to check and respond to instagram DM's or emails with lucrative custom orders. People also are unclear about their options when it comes to what we regularly make and how to order in bulk.
 
 The Solution: I want to build my company a website where prospective customers can easily put in orders, with an admittedly overwhelming number of custom options, in a welming user-interface. 
