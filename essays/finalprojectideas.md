@@ -43,6 +43,15 @@ There's many customer service processes in our company that I think could be str
 - I will also create a request form for businesses to reach out for a more involved partnership and longer-term business deal.
 - Should allow for uploading images and a proposition.
 
+## Mockup page ideas
+
+- Home Page
+- Signin/Signup/Account(Purchase History)
+- Product List Page
+- Custom Order Request Page
+- Buisness Proposition Page
+- Checkout Page
+
 ## Use Cases
 
 - I have had people approach me to print all the individual pieces for an Iron Man suit or a knight's armor, the custom project page would be perfect for this.
