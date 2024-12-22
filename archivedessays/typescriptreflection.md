@@ -4,7 +4,7 @@ type: essay
 title: "A reflection on Typescript and my introduction to athletic software development"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-05
-published: true
+published: false
 labels:
   - Software Development Practice
 ---
