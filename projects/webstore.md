@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/webstore/cover.jpg
+image: img/webstore/cover.png
 title: "3D Print Webstore"
 date: 2024
 published: true
